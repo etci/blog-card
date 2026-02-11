@@ -61,6 +61,7 @@ img {
 }
 
 .btn {
+  background: none;
   padding: var(--space-3) var(--space-5);
   border-radius: var(--space-1);
   font-weight: 500;
